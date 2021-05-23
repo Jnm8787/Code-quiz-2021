@@ -1,0 +1,22 @@
+*{
+  box-sizing:border-box;
+}
+
+body {
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    display: flex;
+    min-height: 100
+    justify-content:flex-start;
+    
+  }
+
+  .header {
+    padding: 40px;
+  text-align: center;
+  background: #13293d;
+  color: #fff;
+  border-bottom:30px #879274;
+  }
